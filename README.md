@@ -2,9 +2,9 @@
 
 This repository is the official PyTorch implementation of "Schrödinger Bridge Consistency Trajectory Models for Speech Enhancement"
 
-- [Paper](https://arxiv.org/abs/) (WASPAA 2025) **(Not submitted during the review period)**
+- Paper (WASPAA 2025) **(Not submitted during the review period)**
 - [Pretrained model](https://osf.io/download/f293c/?view_only=e406b105dd274657b7b33cea9dc764af) (trained on the VoiceBank-DEMAND dataset downsampled to 16 kHz)
-- [Audio samples](sbctm_demo.html) (Demo page)
+- [Audio samples](https://osf.io/download/ahe4w/?view_only=e406b105dd274657b7b33cea9dc764af) (Demo page)
 
 Contact: anonymous@xxxx.xxx **(Anonymous during the review period)**
 
