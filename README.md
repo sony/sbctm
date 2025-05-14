@@ -2,7 +2,7 @@
 
 <br>
 
-# 👉 **Demo (Audio samples):** [**Here**](https://raw.githack.com/s0h1u2/anonymous/refs/heads/main/sbctm_demo.html)
+# 👉 [**Demo (Audio samples)**](https://raw.githack.com/s0h1u2/anonymous/refs/heads/main/sbctm_demo.html)
 
 <br>
 
