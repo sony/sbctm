@@ -2,7 +2,7 @@
 
 <br>
 
-# 👉 [**Demo (Audio samples)**](https://anonymous.4open.science/w/sbctm-3507/sbctm_demo.html) <!--(https://raw.githack.com/s0h1u2/anonymous/refs/heads/main/sbctm_demo.html)-->
+# 👉 [**Demo (Audio samples)**](https://raw.githack.com/s0h1u2/anonymous/refs/heads/main/sbctm_demo.html)<!--(https://anonymous.4open.science/w/sbctm-3507/sbctm_demo.html)-->
 
 <br>
 
