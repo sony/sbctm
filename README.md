@@ -1,20 +1,14 @@
 # Schrödinger Bridge Consistency Trajectory Models for Speech Enhancement
 
-<br>
-
-# 👉 [**Demo (Audio samples)**](https://raw.githack.com/s0h1u2/anonymous/refs/heads/main/sbctm_demo.html)<!--(https://anonymous.4open.science/w/sbctm-3507/sbctm_demo.html)-->
-
-<br>
-
 ## Description
 
 This repository is the official PyTorch implementation of "Schrödinger Bridge Consistency Trajectory Models for Speech Enhancement"
 
-- Paper (WASPAA 2025) **(Not submitted during the review period)**
+- [Paper]() (link to arXiv, accepted in WASPAA 2025)
 - [Pretrained model](https://osf.io/download/f293c/?view_only=e406b105dd274657b7b33cea9dc764af) (trained on the VoiceBank-DEMAND dataset downsampled to 16 kHz)
-- [Demo](https://raw.githack.com/s0h1u2/anonymous/refs/heads/main/sbctm_demo.html) (Audio samples)
+- [Demo](https://shuichiron.github.io/sbctm_demo.html) (Audio samples)
 
-Contact: anonymous@xxxx.xxx **(Anonymous during the review period)**
+Contact: Shuichiro.Nishigori@sony.com
 
 ## Installation
 
@@ -59,11 +53,10 @@ Main arguments:
 ## Citation
 
 We kindly ask you to cite our papers in your publication when using any of our research or code:
-**Anonymous during the review period**
 ```bib
 @inproceedings{
     sbctm2025,
-    author={Anonymous},
+    author={S. Nishigori, K. Saito, N. Murata, M. Hirano, S. Takahashi, and Y. Mitsufuji},
     title={{Schr\"odinger Bridge Consistency Trajectory Models for Speech Enhancement}},
     year={2025},
     booktitle={WASPAA 2025}
